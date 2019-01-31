@@ -1,0 +1,2 @@
+# predict_GPCR_interaction
+GPCR相互作用の予測
